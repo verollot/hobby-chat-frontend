@@ -2,6 +2,8 @@
 
 Hobby chat is the best way to meet new people sharing those same interest of yours.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e88398ac-ee42-41bc-93b2-adbe85a5838d/deploy-status)](https://app.netlify.com/sites/hobchat/deploys)
+
 ## Tech
 
 - ReactJS/Native + Vite
@@ -21,3 +23,8 @@ cd frontend
 npm install
 npm run dev
 ```
+
+## Access
+You can access the site here [Hobby-Chat]
+
+[Hobby-Chat]: <http://hobchat.netlify.app> 
